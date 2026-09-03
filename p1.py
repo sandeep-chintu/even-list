@@ -6,5 +6,5 @@ for i in nums:
         even_list.append(i)
     else:
         odd_list.append(i)
-print("Even List Is: ",even_list)
-print("ODD List IS: ",odd_list)
+print(f"Even List: {even_list}\nOdd List: {odd_list}")
+
